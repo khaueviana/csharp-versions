@@ -3,7 +3,7 @@ C# 6.0 - Novos Recursos
 
 Nesse projeto, exemplifico as novidades do C# 6.0, versão da linguagem disponível no Visual Studio 2015.
 
-Os exemplos foram feito com base em artigos publicados no site **.NET Coders**, **Caelum** e **DEVMEDIA**.
+Os exemplos foram feitos com base nos artigos publicados nos sites **.NET Coders**, **Caelum** e **DEVMEDIA**.
 
 .NET Coders
 -----------
