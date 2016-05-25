@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {
     public static class ResourceExceptionFilter
     {

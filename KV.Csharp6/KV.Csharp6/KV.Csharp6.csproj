@@ -7,8 +7,8 @@
     <ProjectGuid>{4E2E9988-133C-4515-9740-9EB7BB0D6AF0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KV.Csharp6.ConsoleApplication</RootNamespace>
-    <AssemblyName>KV.Csharp6.ConsoleApplication</AssemblyName>
+    <RootNamespace>KV.Csharp6</RootNamespace>
+    <AssemblyName>KV.Csharp6</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

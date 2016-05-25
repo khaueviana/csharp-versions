@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {
     public static class ResourceNullConditional
     {

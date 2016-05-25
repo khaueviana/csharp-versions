@@ -1,4 +1,4 @@
-﻿namespace KV.Csharp6.ConsoleApplication
+﻿namespace KV.Csharp6
 {
     class Program
     {

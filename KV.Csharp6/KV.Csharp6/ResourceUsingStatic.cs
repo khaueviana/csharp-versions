@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 using static System.Math;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {    
     public static class ResourceUsingStatic
     {        

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {
     public static class ResourceStringInterpolation
     {

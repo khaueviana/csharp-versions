@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Threading;
-using static KV.Csharp6.ConsoleApplication.CurrencyQuote;
+using static KV.Csharp6.CurrencyQuote;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {
     public static class ResourceDelegateNull
     {

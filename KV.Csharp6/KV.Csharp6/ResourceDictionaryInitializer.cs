@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {
     public static class ResourceDictionaryInitializer
     {

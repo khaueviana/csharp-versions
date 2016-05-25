@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KV.Csharp6.ConsoleApplication
+namespace KV.Csharp6
 {
     public static class ResourcePropertyConstructorInitializer
     {
