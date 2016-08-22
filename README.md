@@ -1,4 +1,4 @@
-C# 6.0 - Novos Recursos
+C# 6.0 - News Features
 =======================
 
 In this project, exemplify what's new in C # 6.0, version available in Visual Studio 2015.
@@ -32,11 +32,11 @@ http://blog.caelum.com.br/novidades-do-c-6-0/
 
 DEVMEDIA
 --------
-New features of Visual Studio and C# 6.0
+News features of Visual Studio and C# 6.0
 
 http://www.devmedia.com.br/novidades-do-visual-studio-e-do-c/32528
 
-New features
+News features
 -------------------
 
  - Using Static
