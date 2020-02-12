@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 namespace KV.Csharp6
 {
-    public static class ResourceAsyncCathFinally
+    public static class AsyncCathFinally
     {
         public static async void Example()
         {

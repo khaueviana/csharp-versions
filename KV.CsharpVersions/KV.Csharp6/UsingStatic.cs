@@ -3,7 +3,7 @@ using static System.Math;
 
 namespace KV.Csharp6
 {    
-    public static class ResourceUsingStatic
+    public static class UsingStatic
     {        
         public static void Example()
         {

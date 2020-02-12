@@ -4,7 +4,7 @@ using static KV.Csharp6.CurrencyQuote;
 
 namespace KV.Csharp6
 {
-    public static class ResourceDelegateNull
+    public static class DelegateNull
     {
         public static void Example()
         {

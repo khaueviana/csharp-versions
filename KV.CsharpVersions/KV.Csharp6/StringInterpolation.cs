@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace KV.Csharp6
 {
-    public static class ResourceStringInterpolation
+    public static class StringInterpolation
     {
         public static void Example()
         {

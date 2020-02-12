@@ -44,17 +44,17 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ResourceAsyncCathFinally.cs" />
-    <Compile Include="ResourceAutoPropertyInitializer.cs" />
-    <Compile Include="ResourceDelegateNull.cs" />
-    <Compile Include="ResourceDictionaryInitializer.cs" />
-    <Compile Include="ResourceExceptionFilter.cs" />
-    <Compile Include="ResourceExpressionBodiedMember.cs" />
-    <Compile Include="ResourceNameOf.cs" />
-    <Compile Include="ResourceNullConditional.cs" />
-    <Compile Include="ResourcePropertyConstructorInitializer.cs" />
-    <Compile Include="ResourceStringInterpolation.cs" />
-    <Compile Include="ResourceUsingStatic.cs" />
+    <Compile Include="AsyncCathFinally.cs" />
+    <Compile Include="AutoPropertyInitializer.cs" />
+    <Compile Include="DelegateNull.cs" />
+    <Compile Include="DictionaryInitializer.cs" />
+    <Compile Include="ExceptionFilter.cs" />
+    <Compile Include="ExpressionBodiedMember.cs" />
+    <Compile Include="NameOf.cs" />
+    <Compile Include="NullConditional.cs" />
+    <Compile Include="PropertyConstructorInitializer.cs" />
+    <Compile Include="StringInterpolation.cs" />
+    <Compile Include="UsingStatic.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

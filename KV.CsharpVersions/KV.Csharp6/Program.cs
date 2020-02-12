@@ -4,27 +4,27 @@
     {
         static void Main(string[] args)
         {
-            ResourceUsingStatic.Example();
+            UsingStatic.Example();
 
-            ResourceNameOf.Example();
+            NameOf.Example();
 
-            ResourceAutoPropertyInitializer.Example();
+            AutoPropertyInitializer.Example();
 
-            ResourceExpressionBodiedMember.Example();
+            ExpressionBodiedMember.Example();
 
-            ResourceDictionaryInitializer.Example();
+            DictionaryInitializer.Example();
 
-            ResourceExceptionFilter.Example();
+            ExceptionFilter.Example();
 
-            ResourcePropertyConstructorInitializer.Example();
+            PropertyConstructorInitializer.Example();
 
-            ResourceStringInterpolation.Example();
+            StringInterpolation.Example();
 
-            ResourceAsyncCathFinally.Example();
+            AsyncCathFinally.Example();
 
-            ResourceNullConditional.Example();
+            NullConditional.Example();
 
-            ResourceDelegateNull.Example();
+            DelegateNull.Example();
         }
     }
 }

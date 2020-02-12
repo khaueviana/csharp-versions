@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace KV.Csharp6
 {
-    public static class ResourceExceptionFilter
+    public static class ExceptionFilter
     {
         public static void Example()
         {

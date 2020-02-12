@@ -2,7 +2,7 @@
 
 namespace KV.Csharp6
 {
-    public static class ResourcePropertyConstructorInitializer
+    public static class PropertyConstructorInitializer
     {
         public static void Example()
         {

@@ -2,7 +2,7 @@
 
 namespace KV.Csharp6
 {
-    public static class ResourceDictionaryInitializer
+    public static class DictionaryInitializer
     {
         public static void Example()
         {

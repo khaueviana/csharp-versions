@@ -2,7 +2,7 @@
 
 namespace KV.Csharp6
 {
-    public static class ResourceExpressionBodiedMember
+    public static class ExpressionBodiedMember
     {
         public static void Example()
         {

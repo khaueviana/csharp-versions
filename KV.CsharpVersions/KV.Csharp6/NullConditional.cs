@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace KV.Csharp6
 {
-    public static class ResourceNullConditional
+    public static class NullConditional
     {
         public static void Example()
         {

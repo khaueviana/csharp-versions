@@ -2,7 +2,7 @@
 
 namespace KV.Csharp6
 {
-    public static class ResourceAutoPropertyInitializer
+    public static class AutoPropertyInitializer
     {
         public static void Example()
         {

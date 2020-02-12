@@ -2,7 +2,7 @@
 
 namespace KV.Csharp6
 {
-    public static class ResourceNameOf
+    public static class NameOf
     {
         public static void Example()
         {
