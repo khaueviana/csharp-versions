@@ -6,7 +6,7 @@ namespace KV.Csharp6
 {
     public static class DelegateNull
     {
-        public static void Example()
+        public static void Execute()
         {
             CurrencyQuote quote = new CurrencyQuote("Dólar norte-americano", "US$");
             quote.QuoteUpdate += processoQuoteUpdate;

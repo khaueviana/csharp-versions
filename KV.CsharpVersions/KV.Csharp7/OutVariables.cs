@@ -4,7 +4,7 @@ namespace KV.Csharp7
 {
     static class OutVariables
     {
-        public static void Example()
+        public static void Execute()
         {
             // specify type
             if(int.TryParse("123", out int result))

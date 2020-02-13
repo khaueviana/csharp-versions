@@ -5,7 +5,7 @@ namespace KV.Csharp6
 {
     public static class AsyncCathFinally
     {
-        public static async void Example()
+        public static async void Execute()
         {
             ExampleAsyncClass obj = new ExampleAsyncClass();
 

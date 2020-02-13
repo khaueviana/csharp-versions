@@ -4,27 +4,27 @@
     {
         static void Main(string[] args)
         {
-            UsingStatic.Example();
+            UsingStatic.Execute();
 
-            NameOf.Example();
+            NameOf.Execute();
 
-            AutoPropertyInitializer.Example();
+            AutoPropertyInitializer.Execute();
 
-            ExpressionBodiedMember.Example();
+            ExpressionBodiedMember.Execute();
 
-            DictionaryInitializer.Example();
+            DictionaryInitializer.Execute();
 
-            ExceptionFilter.Example();
+            ExceptionFilter.Execute();
 
-            PropertyConstructorInitializer.Example();
+            PropertyConstructorInitializer.Execute();
 
-            StringInterpolation.Example();
+            StringInterpolation.Execute();
 
-            AsyncCathFinally.Example();
+            AsyncCathFinally.Execute();
 
-            NullConditional.Example();
+            NullConditional.Execute();
 
-            DelegateNull.Example();
+            DelegateNull.Execute();
         }
     }
 }

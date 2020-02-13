@@ -4,7 +4,7 @@ namespace KV.Csharp7
 {
     static class Tuples
     {
-        public static void Example()
+        public static void Execute()
         {
             // unnamed parameters
             (string Alpha, string Beta) namedLetters = ("a", "b");

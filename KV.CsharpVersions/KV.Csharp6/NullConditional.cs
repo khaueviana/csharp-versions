@@ -6,7 +6,7 @@ namespace KV.Csharp6
 {
     public static class NullConditional
     {
-        public static void Example()
+        public static void Execute()
         {
             DirectoryInfo diretorio = new DirectoryInfo("C://teste");
 

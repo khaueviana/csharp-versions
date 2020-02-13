@@ -4,7 +4,7 @@ namespace KV.Csharp6
 {
     public static class NameOf
     {
-        public static void Example()
+        public static void Execute()
         {
             DateTime dataExemplo1 = new DateTime(2014, 11, 01);
             DateTime dataExemplo2 = new DateTime(2014, 12, 01);

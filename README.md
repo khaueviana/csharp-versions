@@ -1,6 +1,6 @@
-# csharp6
+# Csharp Versions
 
-C# 6.0 - News Features
+## 6.0
 
 In this project, exemplify what's new in C # 6.0, version available in Visual Studio 2015.
 
@@ -69,3 +69,13 @@ News features of Visual Studio 2015
  - Microsoft Pex
  - AngularJS
  - Windows Azure
+
+## 7.0 to 7.3
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-1
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-2
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3

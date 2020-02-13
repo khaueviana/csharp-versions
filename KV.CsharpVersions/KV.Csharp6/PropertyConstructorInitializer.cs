@@ -4,7 +4,7 @@ namespace KV.Csharp6
 {
     public static class PropertyConstructorInitializer
     {
-        public static void Example()
+        public static void Execute()
         {
             LogMessage2 log = new LogMessage2();            
         }

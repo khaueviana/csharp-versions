@@ -4,7 +4,7 @@ namespace KV.Csharp6
 {
     public static class ExpressionBodiedMember
     {
-        public static void Example()
+        public static void Execute()
         {
             Console.WriteLine("Set dos valores 10 e 1.50 nas propriedades Quantity e Price");            
 

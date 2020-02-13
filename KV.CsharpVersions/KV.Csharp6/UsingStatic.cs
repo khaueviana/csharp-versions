@@ -5,7 +5,7 @@ namespace KV.Csharp6
 {    
     public static class UsingStatic
     {        
-        public static void Example()
+        public static void Execute()
         {
             int numero = 4;
 

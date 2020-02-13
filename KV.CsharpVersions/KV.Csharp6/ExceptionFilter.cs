@@ -8,7 +8,7 @@ namespace KV.Csharp6
 {
     public static class ExceptionFilter
     {
-        public static void Example()
+        public static void Execute()
         {
             Console.WriteLine("Testando a geração de exceções...");
 

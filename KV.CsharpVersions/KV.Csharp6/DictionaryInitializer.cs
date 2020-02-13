@@ -4,7 +4,7 @@ namespace KV.Csharp6
 {
     public static class DictionaryInitializer
     {
-        public static void Example()
+        public static void Execute()
         {
             Dictionary<string, string> capitais = new Dictionary<string, string>()
             {

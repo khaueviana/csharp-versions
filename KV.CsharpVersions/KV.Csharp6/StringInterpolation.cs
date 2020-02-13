@@ -5,7 +5,7 @@ namespace KV.Csharp6
 {
     public static class StringInterpolation
     {
-        public static void Example()
+        public static void Execute()
         {
             DateTime currentDate = DateTime.Now;
             CultureInfo localConfiguration = new CultureInfo("pt-BR");

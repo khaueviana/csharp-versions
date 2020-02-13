@@ -4,7 +4,7 @@ namespace KV.Csharp6
 {
     public static class AutoPropertyInitializer
     {
-        public static void Example()
+        public static void Execute()
         {
             LogMessage logMessage = new LogMessage();
 
